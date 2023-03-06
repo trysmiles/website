@@ -6,4 +6,4 @@ layout: default
 
 Right now we are in the processing of starting up, and are prioritizing our science (and therefore this webpage is threadbare).
 
-While you're here, check out <a href="/members">our fantastic members</a>!
+While you're here, check out <a href="/website/members">our fantastic members</a>!
