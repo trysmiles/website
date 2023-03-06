@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Replace `example_student` with your name -->
-<img src="./assets/_member_imgs/example_student.png" alt="Placeholder Image" class="center" style="max-width: 100%">
+<img src="./assets/member_images/example_student.png" alt="Placeholder Image" class="center" style="max-width: 100%">
 
 <!-- Replace `Example Student` with your name and include your start date-->
 # **Example Student (2023 - present)**
@@ -21,12 +21,12 @@ layout: default
 
 
 <!-- If you have photos you would like to exhibit,
-     save them as `/assets/_member_imgs/your_name_photo_#.png`
+     save them as `/assets/member_images/your_name_photo_#.png`
      and replace example_student below -->
 
 |      |      |      |
 |:----:|:----:|:----:|
-|![](./assets/_member_imgs/example_student_1.png) | ![](./website/assets/_member_imgs/example_student_2.png) | ![](./website/assets/_member_imgs/example_student_3.png) | 
+|![](./assets/member_images/example_student_1.png) | ![](./website/assets/member_images/example_student_2.png) | ![](./website/assets/member_images/example_student_3.png) | 
 
 
 
