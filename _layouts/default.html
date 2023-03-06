@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+      <div class="wrapper">
+          <header>
+
+              <img src="{{site.logo | relative_url}}" alt="Logo" />
+
+              <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+              <strong><a>Rose K. Cersonsky</a><br></strong>
+              &nbsp;&nbsp;&nbsp;<strong><a href="/cv">&#8594&nbsp;Download CV</a><br></strong>
+              &nbsp;&nbsp;&nbsp;<strong><a href="https://www.rosecersonsky.com">&#8594&nbsp;Personal Webpage</a><br /></strong>
+              <strong><a href="/members/">Current Group Members</a><br></strong>
+              <strong><a href="/fun">Shenanigans</a><br></strong>
+              <strong><a href="https://github.io/cersonsky-lab"> Github</a>&nbsp; | &nbsp; <a href="https://twitter.com/LabOfScience"> Twitter</a><br></strong>
+
+          </header>
+          <section>
+
+              {{ content }}
+
+          </section>
+      </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
