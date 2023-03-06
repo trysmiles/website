@@ -26,7 +26,7 @@ layout: default
 
 |      |      |      |
 |:----:|:----:|:----:|
-|![](./assets/member_images/example_student_1.png) | ![](./website/assets/member_images/example_student_2.png) | ![](./website/assets/member_images/example_student_3.png) | 
+|![](/assets/img/example_student_1.png) | ![](/website/assets/img/example_student_2.png) | ![](./website/assets/member_images/example_student_3.png) | 
 
 
 
