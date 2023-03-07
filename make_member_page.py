@@ -1,7 +1,7 @@
 import os
 
 with open("members/index.md", "w") as outf:
-    outf.write('---\nlayout: default\n---\n')
+    outf.write('---\nlayout: default\n---\nCersonsky Lab Members\n')
 
 
     n = 0
