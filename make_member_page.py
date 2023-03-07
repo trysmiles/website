@@ -10,11 +10,11 @@ with open("members/index.md", "w") as outf:
     peepcodes = []
     for line in open("members.txt"):
         if line in [
-            "PI\n",
+            "principal investigator\n",
             "postdoctoral researchers\n",
             "graduate researchers\n",
             "undergraduate researchers\n",
-            "visitors\n",
+            "visitors and collaborators\n",
             "alumni\n",
         ]:
             if n > 0:
