@@ -1,7 +1,7 @@
 import os
 
 with open("members/index.md", "w") as outf:
-    outf.write('---\nlayout: default\n---\nCersonsky Lab Members\n')
+    outf.write('---\nlayout: default\n---\n# Cersonsky Lab Members\n')
 
 
     n = 0
@@ -18,7 +18,7 @@ with open("members/index.md", "w") as outf:
             "alumni\n",
         ]:
             if n > 0:
-                outf.write("# {}\n".format(subtitle.title()))
+                outf.write("## {}\n".format(subtitle.title()))
                 outf.write("|      |      |      |\n")
                 outf.write("|:----:|:----:|:----:|\n")
                 for i in range(len(peeps))[::3]:

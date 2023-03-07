@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-Cersonsky Lab Members
-# Graduate Researchers
+# Cersonsky Lab Members
+## Graduate Researchers
 
 |      |      |      |
 |:----:|:----:|:----:|
