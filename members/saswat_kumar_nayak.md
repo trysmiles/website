@@ -26,7 +26,7 @@ layout: default
 
 |      |      |      |
 |:----:|:----:|:----:|
-|![](/website/assets/img/saswat_kumar_nayak.png) | ![](/website/assets/img/example_student_2.png) | ![](/website/assets/img/example_student_3.png) | 
+|![](/website/assets/img/saswat_kumar_nayak_1.png) | ![](/website/assets/img/saswat_kumar_nayak_2.png) | ![](/website/assets/img/saswat_kumar_nayak_3.png) | 
 
 
 
