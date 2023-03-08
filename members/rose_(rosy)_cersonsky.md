@@ -26,11 +26,10 @@ Outside of the lab, I love to run, climb, bake, and be in the outdoors!
      save them as `/assets/member_images/your_name_photo_#.png`
      and replace example_student below -->
 
-|      |      |
-|:----:|:----:|
-|![](/website/assets/img/rose_cersonsky_1.png) | ![](/website/assets/img/rose_cersonsky_2.png) |
-|![](/website/assets/img/rose_cersonsky_3.jpg) | ![](/website/assets/img/rose_cersonsky_4.jpg) |
-|![](/website/assets/img/rose_cersonsky_5.jpg) | ![](/website/assets/img/rose_cersonsky_6.jpg) | 
+<img src="/website/assets/img/rose_cersonsky_1.png" style="max-height: 250px"> <img src="/website/assets/img/rose_cersonsky_3.jpg" style="max-height: 250px">
+![](/website/assets/img/rose_cersonsky_2.png) 
+![](/website/assets/img/rose_cersonsky_4.jpg) 
+<img src="/website/assets/img/rose_cersonsky_5.jpg" style="max-height: 300px"> <img src="/website/assets/img/rose_cersonsky_6.jpg" style="max-height: 300px">
 
 
 
