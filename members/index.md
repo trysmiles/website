@@ -2,6 +2,14 @@
 layout: default
 ---
 # Cersonsky Lab Members
+
+## Principal Investigator
+
+|      |      |      |
+|:----:|:----:|:----:|
+|<a href='/website/members/rose_(rosy)_cersonsky'><img src='/website/assets/img/rose_(rosy)_cersonsky.png' style='width:auto height:auto max-height:200px'></a>| | |
+|<a href="/website/members/rose_(rosy)_cersonsky">Rose (Rosy) Cersonsky</a>| | |
+
 ## Graduate Researchers
 
 |      |      |      |

@@ -18,7 +18,7 @@ with open("members/index.md", "w") as outf:
             "alumni\n",
         ]:
             if n > 0:
-                outf.write("## {}\n".format(subtitle.title()))
+                outf.write("\n## {}\n".format(subtitle.title()))
                 outf.write("|      |      |      |\n")
                 outf.write("|:----:|:----:|:----:|\n")
                 for i in range(len(peeps))[::3]:
