@@ -32,7 +32,7 @@ with open("members/index.md", "w") as outf:
                                 raise FileNotFoundError("File assets/img/{}.png does not exist.".format(my_peepcodes[j]))
                             if not os.path.exists("./members/{}.md".format(my_peepcodes[j])):
                                 raise FileNotFoundError("./members/{}.md does not exist.".format(my_peepcodes[j]))
-                            images += "|<a href='/website/members/{}'><img src='/website/assets/img/{}.png' style='height:200px'></a>".format(my_peepcodes[j], my_peepcodes[j])
+                            images += "|<a href='/website/members/{}'><img src='/website/assets/img/{}.png' style='width:auto height:auto max-height:200px'></a>".format(my_peepcodes[j], my_peepcodes[j])
                             names += '|<a href="/website/members/{}">{}</a>'.format(
                                 my_peepcodes[j], my_peeps[j]
                             )
