@@ -20,12 +20,12 @@ with open("members/index.md", "w") as outf:
             if n > 0:
                 skip = n
                 if n>=3:
-                    s="\n\n## {}\n|      |      |      |\n|:----:|:----:|:----:|\n".format(subtitle.title())
+                    s='\n\n<h2 style="text-align: center;"> {}</h2>\n\n|      |      |      |\n|:----:|:----:|:----:|\n'.format(subtitle.title())
                     skip = 3
                 elif n==2:
-                    s="\n\n## {}\n|      |      |\n|:----:|:----:|\n".format(subtitle.title())
+                    s='\n\n<h2 style="text-align: center;"> {}</h2>\n\n|      |      |\n|:----:|:----:|\n'.format(subtitle.title())
                 else:
-                    s="\n\n## {}\n|      |\n|:----:|\n".format(subtitle.title())
+                    s='\n\n<h2 style="text-align: center;"> {}</h2>\n\n|      |\n|:----:|\n'.format(subtitle.title())
                 outf.write(s)
                 for i in range(len(peeps))[::skip]:
                     my_peeps = peeps[i: i + skip]
@@ -49,6 +49,7 @@ with open("members/index.md", "w") as outf:
                     names += "|\n"
                     outf.write(images)
                     outf.write(names)
+                outf.write("{:.custom-table}\n\n------\n")
             n = 0
             subtitle = line
             peeps = []
