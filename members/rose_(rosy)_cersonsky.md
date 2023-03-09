@@ -18,7 +18,7 @@ layout: default
      include papers and talks, and contributions
      But for now put whatever you want -->
 **Cool stuff I've done**:
-Professionally? I've <a href="github.com/rosecers">written some good code</a>, published <a href="https://scholar.google.com/citations?user=B2cyV70AAAAJ&hl=en">some cool papers</a>, given lots of talks, and <a href="https://sites.psu.edu/2021colloids/victor-k-lamer-award/">won a few awards</a>. 
+Professionally? I've <a href="https://www.github.com/rosecers">written some good code</a>, published <a href="https://scholar.google.com/citations?user=B2cyV70AAAAJ&hl=en">some cool papers</a>, given lots of talks, and <a href="https://sites.psu.edu/2021colloids/victor-k-lamer-award/">won a few awards</a>. 
 
 Outside of the lab, I love to run, climb, bake, and be in the outdoors! 
 
