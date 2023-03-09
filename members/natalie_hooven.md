@@ -1,4 +1,4 @@
---
+---
 Layout: default
 ---
 
@@ -23,11 +23,6 @@ Layout: default
 <!-- If you have photos you would like to exhibit,
      save them as `/assets/member_images/your_name_photo_#.png`
      and replace example_student below -->
-
-!--|      |      |      |--
-!--|:----:|:----:|:----:|--
-!--|![](/website/assets/img/example_student_1.png) | ![](/website/assets/img/example_student_2.png) | ![](/website/assets/img/example_student_3.png) | --
-
 
 
 
