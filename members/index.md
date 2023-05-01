@@ -38,3 +38,15 @@ layout: default
 {:.custom-table}
 
 ------
+
+
+<h2 style="text-align: center;"> Visitors And Collaborators
+</h2>
+
+|      |
+|:----:|
+|<a href='/website/members/jigyasa_nigam'><img src='/website/assets/img/jigyasa_nigam.png' style='max-height:200px'></a>|
+|<a href="/website/members/jigyasa_nigam">Jigyasa Nigam</a>|
+{:.custom-table}
+
+------
