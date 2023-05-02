@@ -1,5 +1,5 @@
 ---
-Layout: default
+layout: default
 ---
 
 <!-- Replace `example_student` with your name -->
