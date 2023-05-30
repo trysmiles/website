@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Replace `example_student` with your name -->
-<img src="/website/assets/img/example_student.png" alt="Placeholder Image" class="center" style="max-width: 100%">
+<img src="/website/assets/img/caleb_youngwerth.jpg" alt="Placeholder Image" class="center" style="max-width: 100%">
 
 <!-- Replace `Example Student` with your name and include your start date-->
 # Caleb Youngwerth (2023 - present)
@@ -26,4 +26,4 @@ layout: default
 
 |      |      |      |
 |:----:|:----:|:----:|
-|![](/website/assets/img/example_student_1.png) | ![](/website/assets/img/example_student_2.png) | ![](/website/assets/img/example_student_3.png) |
+|![](/website/assets/img/caleb_youngwerth_1.png) | ![](/website/assets/img/caleb_youngwerth_2.png) | ![](/website/assets/img/caleb_youngwerth_3.png) |
