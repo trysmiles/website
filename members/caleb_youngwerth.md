@@ -26,4 +26,4 @@ layout: default
 
 |      |      |      |
 |:----:|:----:|:----:|
-|![](/website/assets/img/caleb_youngwerth_1.png) | ![](/website/assets/img/caleb_youngwerth_2.png) | ![](/website/assets/img/caleb_youngwerth_3.png) |
+|![](/website/assets/img/caleb_youngwerth_1.png) | 
