@@ -4,6 +4,11 @@ layout: default
 
 **The Cersonsky Lab is actively recruiting post-doctoral, graduate, and undergraduate researchers to join our team!**
 
+We look for candidates that are enthusiastic, motivated, creative and independent, with an attitude for critical thinking.
+We are open to consider diverse scientific backgrounds at the doctoral level, while hiring at the post-doctoral level tends to be more focused.
+
+Please consider that in order to perform a preliminary screening, all the inquiries that do not follow these guidelines might be silently ignored.
+
 ### Postdoctoral researchers
 
 If you are interested in a postdoctoral position, please email [me](https://directory.engr.wisc.edu/che/Faculty/Cersonsky_Rose/) with a 1 page statement of envisioned plans, CV, and three references.
