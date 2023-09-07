@@ -3,6 +3,8 @@ layout: default
 title: "8 Tips for a Literature Review Presentation"
 ---
 
+by [Caleb Youngwerth](https://cersonsky-lab.github.io/website/members/caleb_youngwerth)
+
 # 8 Tips for a Literature Review Presentation
 
 Literature reviews for research are very different from any other presentation you may have done before, so prepare to relearn how to present. The goals of
