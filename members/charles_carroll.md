@@ -26,6 +26,7 @@ layout: default
      save them as `/assets/member_images/your_name_photo_#.png`
      and replace example_student below -->
 
-|      |      |      |
-|:----:|:----:|:----:|
-|![](/website/assets/img/charles_carroll_1.png) | ![](/website/assets/img/charles_carroll_2.png) | ![](/website/assets/img/charles_carroll_3.png) | ![](/website/assets/img/charles_carroll_4.png) |
+|      |      |
+|:----:|:----:|
+|![](/website/assets/img/charles_carroll_1.png) | ![](/website/assets/img/charles_carroll_2.png) |
+|![](/website/assets/img/charles_carroll_3.png) | ![](/website/assets/img/charles_carroll_4.png) |
