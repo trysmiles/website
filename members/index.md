@@ -21,8 +21,10 @@ layout: default
 
 |      |      |      |
 |:----:|:----:|:----:|
-|<a href='/website/members/charles_carroll'><img src='/website/assets/img/charles_carroll.png' style='max-height:200px'></a>|<a href='/website/members/arthur_lin'><img src='/website/assets/img/arthur_lin.png' style='max-height:200px'></a>|<a href='/website/members/saswat_kumar_nayak'><img src='/website/assets/img/saswat_kumar_nayak.png' style='max-height:200px'></a>|
-|<a href="/website/members/charles_carroll">Charles Carroll</a>|<a href="/website/members/arthur_lin">Arthur Lin</a>|<a href="/website/members/saswat_kumar_nayak">Saswat Kumar Nayak</a>|
+|<a href='/website/members/charles_carroll'><img src='/website/assets/img/charles_carroll.png' style='max-height:200px'></a>|<a href='/website/members/christian_jorgensen'><img src='/website/assets/img/christian_jorgensen.png' style='max-height:200px'></a>|<a href='/website/members/arthur_lin'><img src='/website/assets/img/arthur_lin.png' style='max-height:200px'></a>|
+|<a href="/website/members/charles_carroll">Charles Carroll</a>|<a href="/website/members/christian_jorgensen">Christian Jorgensen</a>|<a href="/website/members/arthur_lin">Arthur Lin</a>|
+|<a href='/website/members/saswat_kumar_nayak'><img src='/website/assets/img/saswat_kumar_nayak.png' style='max-height:200px'></a>| | |
+|<a href="/website/members/saswat_kumar_nayak">Saswat Kumar Nayak</a>| | |
 {:.custom-table}
 
 ------
