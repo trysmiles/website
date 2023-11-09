@@ -17,7 +17,7 @@ layout: default
 <!-- Ultimately, we'll use this section to
      include papers and talks, and contributions
      But for now put whatever you want -->
-**Cool stuff I've done**: Carving Bucky Badger on a pumkin, watching movies for 8 hours a day, and all the things meaningless and meaningful at the same time.
+**Cool stuff I've done**: Carved Bucky Badger on a pumpkin, watched movies for 8 hours in one day, and many things meaningless and meaningful at the same time.
 
 
 <!-- If you have photos you would like to exhibit,
