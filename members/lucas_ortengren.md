@@ -17,8 +17,7 @@ layout: default
 <!-- Ultimately, we'll use this section to
      include papers and talks, and contributions
      But for now put whatever you want -->
-**Cool stuff I've done**: I just started here, so not much yet; come back soon to see what I've been up to!
-
+**Cool stuff I've done**: I've previously done research about Heesch numbers and aperiodic monotiles as part of the Madison Experimental Mathematics lab-- check it out at my [GitHub](https://github.com/ortengren)!
 
 <!-- If you have photos you would like to exhibit,
      save them as `/assets/member_images/your_name_photo_#.png`
