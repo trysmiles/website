@@ -26,6 +26,6 @@ layout: default
 
 |      |      |      |
 |:----:|:----:|:----:|
-|![](/website/assets/img/lisa_je_1.png) | ![](/website/assets/img/lisa_je_2.png) | ![](/website/assets/img/lisa_je_3.png) |
+|![](/website/assets/img/lisa_je_1.jpg) | ![](/website/assets/img/lisa_je_2.jpg) | ![](/website/assets/img/lisa_je_3.jpg) |
 
 
