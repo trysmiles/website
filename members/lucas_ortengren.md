@@ -12,7 +12,7 @@ layout: default
 **Role in the Cersonsky Lab**: Documentation-writer and miscellaneous assistant.
 
 <!-- Name at least one research topic amongst this list -->
-**Things I'm excited about right now**: Learning the ins and outs of aniSOAP and machine learning.
+**Things I'm excited about right now**: Learning the ins and outs of AniSOAP and machine learning.
 
 <!-- Ultimately, we'll use this section to
      include papers and talks, and contributions
