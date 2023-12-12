@@ -88,10 +88,19 @@ table {
 }
 
 th, td {
-  text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  text-align:center;
+  padding:1px 2px;
+  border-bottom:0px solid #e5e5e5;
 }
+
+th + th {
+    width: 30%;
+}
+
+th + th + th {
+    width: 30%;
+}
+
 
 dt {
   color:#444;
