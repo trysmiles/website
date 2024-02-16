@@ -47,10 +47,10 @@ layout: default
 <h2 style="text-align: center;"> Visitors And Collaborators
 </h2>
 
-|      |      |
-|:----:|:----:|
-|<a href='/website/members/jigyasa_nigam'><img src='/website/assets/img/jigyasa_nigam.png' style='max-height:200px'></a>|<a href='/website/members/leonard_and_matilda'><img src='/website/assets/img/leonard_and_matilda.jpg' style='max-height:200px'></a>|
-|<a href="/website/members/jigyasa_nigam">Jigyasa Nigam</a>|<a href="/website/members/leonard_and_matilda">Leonard and Matilda</a>|
+|      |      |      |
+|:----:|:----:|:----:|
+|<a href='/website/members/lisa_je'><img src='/website/assets/img/lisa_je.png' style='max-height:200px'></a>|<a href='/website/members/jigyasa_nigam'><img src='/website/assets/img/jigyasa_nigam.png' style='max-height:200px'></a>|<a href='/website/members/leonard_and_matilda'><img src='/website/assets/img/leonard_and_matilda.jpg' style='max-height:200px'></a>|
+|<a href="/website/members/lisa_je">Lisa Je</a>|<a href="/website/members/jigyasa_nigam">Jigyasa Nigam</a>|<a href="/website/members/leonard_and_matilda">Leonard and Matilda</a>|
 {:.custom-table}
 
 ------
